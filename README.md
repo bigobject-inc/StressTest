@@ -1,3 +1,3 @@
 # StressTest
 
-./StressTest max process> <number ofquery per process>
+./StressTest [max process] [number ofquery per process]
