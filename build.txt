@@ -1,0 +1,2 @@
+//BUILD ASSOCIATION b2b(Product.brand) BY Customer.name FROM sales
+BUILD TABLE pt (Product.id , channel_name['7-11', 'am/pm', 'CVS' STRING ]:qty) FROM sales

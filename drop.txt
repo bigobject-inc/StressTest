@@ -1,0 +1,2 @@
+drop association b2b
+drop table pt

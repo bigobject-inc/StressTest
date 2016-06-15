@@ -1,0 +1,2 @@
+//GET FREQ('Fanta') FROM b2b
+//select * from pt limit 10

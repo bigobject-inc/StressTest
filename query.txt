@@ -1,0 +1,5 @@
+select sum("qty") from sales
+select sum('qty') from sales
+select * from sales limit 3
+select * from sales limit 10,3
+select * from sales limit 3
